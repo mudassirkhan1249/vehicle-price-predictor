@@ -96,7 +96,7 @@ The original datasets consisted of four separate, raw CarDekho schemas (v1, v2, 
 ## 👨‍💻 Author
 **Mudassir Khan**  
 * Aspiring Data Scientist & Machine Learning Developer  
-* GitHub: [@your-github-username](https://github.com)
+* GitHub: [@your-github-username](https://github.com/mudassirkhan1249)
 
 ---
 *If you find this repository helpful, consider giving it a ⭐️!*
